@@ -1,8 +1,8 @@
 package Practice;
 
 public class Tc_001 {
-
-	public void Login() {
-		System.out.println("HI");
+	public void login() {
+	  System.out.println("Hi");
 	}
+
 }
